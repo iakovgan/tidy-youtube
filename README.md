@@ -9,8 +9,7 @@
 
 2. Установить скрипт
 
-В Chrome: Открыть [chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils)
-и в поле `Import from URL` скопировать: https://github.com/iakovgan/tidy-youtube/raw/main/tidy-youtube.js и нажать Install
+В Chrome: Открыть [chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils), в поле `Import from URL` скопировать: https://github.com/iakovgan/tidy-youtube/raw/main/tidy-youtube.js и нажать Install
 
 
 ## Is there an English version?
