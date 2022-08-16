@@ -8,7 +8,7 @@
 1. установить tampermonkey 
 https://www.tampermonkey.net
 
-2. Открыть и установить скрипт
+2. Открыть и установить скрипт https://github.com/iakovgan/tidy-youtube/raw/main/tidy-youtube.js
 
 ## Is there an English version?
 Not yet. Contributions are welcome
