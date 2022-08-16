@@ -5,10 +5,13 @@
 Поиск работает. 
 
 ## Как установить?
-1. установить tampermonkey 
-https://www.tampermonkey.net
+1. Установить tampermonkey https://www.tampermonkey.net
 
-2. Открыть и установить скрипт https://github.com/iakovgan/tidy-youtube/raw/main/tidy-youtube.js
+2. Установить скрипт
+
+В Chrome: Открыть chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils
+и в поле `Import from URL` скопировать: https://github.com/iakovgan/tidy-youtube/raw/main/tidy-youtube.js и нажать Install
+
 
 ## Is there an English version?
 Not yet. Contributions are welcome
